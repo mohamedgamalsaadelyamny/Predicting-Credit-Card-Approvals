@@ -240,7 +240,7 @@ This is a plot for classes conditional probabilities and the decision boundary f
 Prior Default and Employed
 
 
-### perceptron
+## perceptron
 In our data wemeasure the similarity
 between the labels ,Anddrop features with
 mi score low than .01
